@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pmackiniv.github.io/vital-edge-insurance/sitemap.xml
